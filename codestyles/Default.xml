@@ -23,6 +23,15 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
+  <JavaCodeStyleSettings>
+    <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+      <value>
+        <package name="java.awt" withSubpackages="false" static="false" />
+        <package name="import java.lang.System" withSubpackages="false" static="false" />
+        <package name="javax.swing" withSubpackages="false" static="false" />
+      </value>
+    </option>
+  </JavaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="WRAP_LONG_LINES" value="true" />
     <option name="WRAP_ON_TYPING" value="1" />
