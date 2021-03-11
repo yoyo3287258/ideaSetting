@@ -34,6 +34,10 @@
           <option name="url" value="http://10.203.20.51:8001" />
           <option name="userName" value="kunta" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.203.20.51:8001/bbg-crm-it/qywx-monitor.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\develop\ideaProject" />
