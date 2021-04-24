@@ -42,6 +42,14 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="wangyouhuai" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://wangyouhuai@bitbucket.org/saubcy/huizutechserver.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="wangyouhuai" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\develop\ideaProject" />
