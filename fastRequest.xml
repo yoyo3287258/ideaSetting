@@ -103,7 +103,17 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
+        <option name="methodType" value="GET" />
         <option name="originUrl" value="" />
+        <option name="requestParamMap">
+          <map>
+            <entry key="params">
+              <value>
+                <Object />
+              </value>
+            </entry>
+          </map>
+        </option>
         <option name="url" value="" />
       </ParamGroup>
     </option>
