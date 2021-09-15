@@ -10,6 +10,7 @@
         <entry key="class search" value="NOT_PASSED" />
         <entry key="codeassistance.codeformatting" value="PASSED" />
         <entry key="codeassistance.editorcodingassistance" value="PASSED" />
+        <entry key="codeassistance.localhistory" value="NOT_PASSED" />
         <entry key="codeassistance.parameterinfo" value="PASSED" />
         <entry key="codeassistance.quickpopups" value="PASSED" />
         <entry key="collapse" value="PASSED" />
