@@ -50,6 +50,14 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="wangyouhuai" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.bubugao-inc.com/data-center/crm/bbg-crm-backend/merge.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.bubugao-inc.com" />
+          <option name="userName" value="zengyingbiao" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\develop\ideaProject" />
