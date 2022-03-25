@@ -93,7 +93,6 @@
     </option>
     <option name="domain" value="https://apitest.huizutech.com" />
     <option name="enableEnv" value="test" />
-    <option name="enableFlag" value="true" />
     <option name="enableProject" value="huizutechserver" />
     <option name="envList">
       <list>
@@ -103,11 +102,15 @@
     </option>
     <option name="paramGroup">
       <ParamGroup>
+        <option name="className" value="com.bubugao.lib.fireeye.dataserver.api.ITaskRuleApi" />
+        <option name="method" value="getTask" />
+        <option name="methodDescription" value="查询任务规则" />
         <option name="methodType" value="GET" />
+        <option name="module" value="bbg-fireeye-dataserver-lib" />
         <option name="originUrl" value="" />
         <option name="requestParamMap">
           <map>
-            <entry key="params">
+            <entry key="taskId">
               <value>
                 <Object />
               </value>
