@@ -86,6 +86,11 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="org.jetbrains.kotlin">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
