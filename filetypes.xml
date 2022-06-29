@@ -6,8 +6,8 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="http" type="PLAIN_TEXT" />
-      <mapping pattern="bootstrap-**.properties" type="Properties" />
       <mapping pattern="application-**.properties" type="Properties" />
+      <mapping pattern="bootstrap-**.properties" type="Properties" />
       <mapping pattern="application.properties" type="Properties" />
       <mapping pattern="bootstrap.properties" type="Properties" />
       <mapping pattern="bootstrap-**.y**ml" type="YAML" />
